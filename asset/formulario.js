@@ -52,7 +52,7 @@
       // Oculta el modal
       spinnerModal.hide();
       // Redirige a la siguiente URL después de enviar el formulario con éxito
-      window.top.location.href = 'https://www.finca.co/jornada-ganadera-mayo-2024/registro-exitoso';
+      window.top.location.href = 'https://www.finca.co/registro-exitoso';
     })
     .catch(function(error) {
       // Oculta el modal
